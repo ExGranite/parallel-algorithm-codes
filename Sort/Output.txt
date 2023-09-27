@@ -1,0 +1,29 @@
+Total time taken to read the input array is 0.003488 seconds.
+Total time taken to sort the array is 0.008475 seconds.
+Total time taken to print the sorted array is 0.005484 seconds.
+Total time taken to run the program is 0.017447 seconds.
+
+Total time taken to read the input array is 0.003445 seconds.
+Total time taken to sort the array is 0.008283 seconds.
+Total time taken to print the sorted array is 0.006094 seconds.
+Total time taken to run the program is 0.017822 seconds.
+
+Total time taken to read the input array is 0.003617 seconds.
+Total time taken to sort the array is 0.008737 seconds.
+Total time taken to print the sorted array is 0.005701 seconds.
+Total time taken to run the program is 0.018055 seconds.
+
+Total time taken to read the input array is 0.003656 seconds.
+Total time taken to sort the array is 0.008629 seconds.
+Total time taken to print the sorted array is 0.005784 seconds.
+Total time taken to run the program is 0.018069 seconds.
+
+Total time taken to read the input array is 0.003534 seconds.
+Total time taken to sort the array is 0.008322 seconds.
+Total time taken to print the sorted array is 0.005824 seconds.
+Total time taken to run the program is 0.017680 seconds.
+
+Average time taken to read the input array is 0.003548 seconds.
+Average time taken to sort the array is 0.008489 seconds.
+Average time taken to print the sorted array is 0.005777 seconds.
+Average time taken to run the program is 0.017815 seconds.

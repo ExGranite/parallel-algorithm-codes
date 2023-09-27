@@ -1,1 +1,1 @@
-# parallel-algorithm-codes
+# Parallel Algorithm Codes
